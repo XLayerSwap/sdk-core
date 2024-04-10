@@ -1917,9 +1917,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@uniswap/sdk-core@workspace:.":
+"@xlayerswap/sdk-core@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@uniswap/sdk-core@workspace:."
+  resolution: "@xlayerswap/sdk-core@workspace:."
   dependencies:
     "@ethersproject/address": ^5.0.2
     "@types/big.js": ^4.0.5
